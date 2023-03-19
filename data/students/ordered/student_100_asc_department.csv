@@ -1,0 +1,101 @@
+Name,Surname,Student ID,GPA,Department,Enrollment Year,Date of Birth
+Angel,Hill,2841266456,1.47,Agricultural Engineering,2020,2002-03-15
+Austin,Sullivan,2670242644,3.15,Agricultural Engineering,2013,1966-09-06
+Joshua,Lawrence,1586211075,3.3,Agricultural Engineering,2017,1950-02-24
+Philip,Henry,1469800062,1.26,Architecture,2015,1969-01-21
+Robert,Wheeler,1939454513,1.99,Architecture,2019,1969-08-15
+Danielle,Riddle,2483081711,3.49,Architecture,2016,1975-05-12
+Lisa,Harvey,1953719179,3.04,Biology,2010,1977-04-11
+Daniel,Cox,2662162847,3.08,Biology,2018,1992-01-04
+Tara,Ruiz,1902924608,1.99,Biology,2016,1950-01-16
+Robert,Stein,1772380607,1.3,Biology,2021,1985-05-21
+Trevor,Brooks,1311297657,2.61,Biology,2020,1967-02-02
+Lawrence,Lawson,1530265618,2.87,Biology,2016,1975-06-27
+Kenneth,Thomas,1076296109,1.37,Biology,2020,1978-05-20
+Brian,Schneider,2032088351,2.45,Business Administration,2021,1950-12-23
+Brittany,Lee,1518684952,1.77,Business Administration,2011,1962-10-09
+Michael,Barnett,1181020908,3.98,Business Administration,2022,1981-08-06
+Stephanie,Short,2011269893,1.2,Business Administration,2014,1956-09-11
+Nichole,Washington,1407883957,1.43,Chemical Engineering,2022,1989-03-25
+Erin,Cooper,1849476084,1.6,Chemical Engineering,2010,1968-10-12
+William,Sanchez,1258024967,3.12,Chemical Engineering,2011,1954-12-16
+Xavier,Graham,2547714570,2.96,Chemical Engineering,2014,1951-01-11
+Rhonda,Lyons,1855584363,3.43,Chemical Engineering,2017,1970-08-03
+Eric,Murray,1900556211,3.89,Chemical Engineering,2016,1963-02-02
+Victoria,Stanley,2361694974,1.62,Chemical Engineering,2015,1963-02-04
+Julie,Jackson,1911070900,3.37,Chemistry,2018,2000-09-16
+James,Malone,2938458202,1.55,Chemistry,2010,1977-12-14
+Erika,Brown,2293991526,2.71,Chemistry,2010,1999-11-10
+Crystal,Martin,2148633569,1.92,Chemistry,2011,1953-03-05
+John,Davis,1951418903,1.29,Chemistry,2013,1984-02-06
+Kiara,Sims,1041568758,2.3,Chemistry,2012,1965-12-27
+Paul,Davis,2466490223,2.7,Chemistry,2019,1952-07-25
+Timothy,Williams,2798624320,1.78,Chemistry,2016,1968-04-21
+Alejandro,Bailey,2066251987,2.57,Civil Engineering,2012,2001-04-05
+James,Bates,2489771308,1.91,Civil Engineering,2019,1957-10-22
+Katherine,Rodriguez,1601778245,2.05,Computer Engineering,2010,1962-03-25
+Kelly,Clark,1498298854,3.87,Electrical and Electronics Engineering,2010,1957-11-09
+Norma,Schwartz,2857818700,1.31,Electrical and Electronics Engineering,2012,1974-11-22
+Richard,Moreno,2174636517,1.08,Electrical and Electronics Engineering,2011,1984-04-13
+Rebecca,Phillips,1958256668,1.28,Electrical and Electronics Engineering,2013,1972-02-03
+Kevin,White,1253203459,1.14,Electrical and Electronics Engineering,2012,1996-05-23
+Michael,Young,1428628479,3.61,Environmental Engineering,2022,1951-05-19
+Michael,Trujillo,1125164115,1.67,Environmental Engineering,2011,1970-12-21
+John,Rodgers,1251393645,1.06,Environmental Engineering,2018,1997-06-13
+Peggy,Horn,2057795221,3.7,Environmental Engineering,2020,2004-02-16
+Alicia,Lewis,1196744302,3.28,Food Engineering,2018,1959-07-09
+Mark,Simpson,2722030519,3.74,Food Engineering,2016,1968-06-17
+Jerome,Perry,2222736144,2.36,Food Engineering,2019,1965-05-16
+Ronald,Underwood,1486258024,3.71,Food Engineering,2019,1993-03-27
+Ryan,Vang,1949501046,3.21,Food Engineering,2010,1956-03-17
+Mark,Mcguire,2688939695,1.94,Food Engineering,2016,1960-10-06
+Dana,Harris,1834032555,2.79,History,2014,1997-10-17
+Joshua,Kirk,1957134629,3.13,History,2012,2001-03-23
+Adam,Hughes,2914328838,2.15,History,2016,2000-07-18
+Teresa,Gill,1234692676,1.72,History,2016,1954-03-13
+Caitlin,Adams,2433713488,1.23,Industrial Engineering,2020,1992-05-18
+William,Webb,2441563766,1.59,Law,2022,1977-01-04
+Dana,Smith,1829291638,3.87,Law,2012,1966-05-25
+Michael,Wang,1946470400,2.88,Law,2020,1972-05-20
+Seth,Thompson,1111231309,1.56,Law,2016,1957-07-18
+Anthony,Rojas,2569767762,1.71,Literature,2021,1991-08-19
+Christopher,Sanchez,1426225261,1.49,Literature,2020,1954-12-08
+Melinda,Mitchell,2534373992,1.97,Literature,2019,1960-06-19
+Robert,Taylor,1530624261,2.08,Literature,2019,1984-02-16
+Charles,Gonzalez,1277301857,2.05,Literature,2013,1953-06-18
+Martha,Miller,1393467706,1.0,Maritime Studies,2020,1958-02-15
+Erik,Floyd,2647689777,1.26,Maritime Studies,2022,1961-03-26
+Amanda,Santos,1959895267,2.78,Maritime Studies,2012,1991-10-07
+Mary,Jackson,2480012276,2.4,Maritime Studies,2016,1987-03-28
+Hannah,Bailey,2275505515,2.19,Maritime Studies,2011,1975-04-07
+Haley,Yang,1152370234,1.08,Maritime Studies,2011,1999-06-14
+Parker,Stephens,2971381043,3.34,Maritime Studies,2011,1986-05-27
+James,Cole,1032626743,2.33,Maritime Studies,2020,1987-10-04
+James,Hernandez,2142428651,1.04,Mathematics,2022,1952-12-06
+Danielle,Jackson,2487946557,3.79,Mathematics,2021,1998-08-02
+Donald,Watkins,2974719251,1.5,Mathematics,2012,1971-10-02
+Mary,Hatfield,1547332358,3.04,Mathematics,2022,2000-10-20
+Tammie,Page,1752851891,1.11,Mathematics,2010,2000-06-26
+Amanda,Schneider,1073414539,1.81,Mathematics,2016,2005-01-20
+Natasha,Barker,2595418547,1.87,Mechanical Engineering,2012,1961-10-15
+Andre,Molina,1904682923,1.89,Mechanical Engineering,2017,1962-07-03
+Justin,Guerrero,1039166078,1.7,Physics,2018,1954-02-19
+Cindy,Alvarez,1889265840,1.08,Physics,2010,1953-02-27
+Wanda,Holder,2397461132,3.83,Physics,2018,2002-01-18
+Julia,Bailey,2046520719,3.88,Physics,2016,2001-09-07
+Sharon,Dean,1687774544,1.82,Physics,2021,1961-10-06
+Michael,Cole,2258826884,2.23,Psychology,2011,1977-04-13
+Todd,Rogers,1999637453,2.23,Psychology,2020,1996-07-12
+Samantha,Schroeder,2453292865,1.07,Psychology,2022,1951-03-19
+David,Torres,1526642536,3.27,Psychology,2017,1991-01-21
+Samuel,Mcclure,1205313865,2.48,Psychology,2013,1991-03-05
+Robert,James,1065581803,3.76,Psychology,2016,1998-02-10
+Katie,Hernandez,1948578981,1.7,Sociology,2015,1982-05-23
+Sandra,Mclean,2398301342,1.49,Sociology,2019,1975-08-12
+Mark,Smith,2435448472,3.36,Sociology,2019,1969-11-06
+Johnny,Smith,1039774860,2.14,Sociology,2016,1959-09-19
+Sara,Burns,1176796628,2.21,Sociology,2012,1981-05-24
+Adam,Thompson,2154788282,2.54,Sociology,2020,1962-09-02
+Kara,Ashley,2119391611,3.81,Sociology,2014,1985-07-18
+Troy,Trevino,2292160901,3.95,Tourism,2021,1998-03-26
+Paula,Smith,1848212522,1.72,Tourism,2016,1997-01-26
