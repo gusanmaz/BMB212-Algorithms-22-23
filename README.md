@@ -139,6 +139,8 @@ Calistirilan programin ciktisi:
   Cok buyuk boyutlu olmayan ornek dosyalara [data klasorunden](#/data) ulasabilirsiniz. Buyuk boyutli ornek dosyalar
   dahil tum ornek dosyalara [Google Drive klasorunden](https://drive.google.com/drive/folders/1WYAoYN4rDwvuP5nz6mWsa0W-l3qZ1U32)
   erisebilirsiniz.
+* Size verilen data dosyalarina ek olarak [psuedo_big_data](https://github.com/gusanmaz/psuedo_big_data) Python kutuphanesini 
+  kullanarak yeni data dosyalari uretebilir ve yazdigini kodlari bu data dosyalarini kullanarak yeni testlere tabii tutabilirsiniz.
 
   
 #### 1. Odev
@@ -602,6 +604,10 @@ Bu odevi yapabilmek icin Unix sistemlerdeki `cd` komutunun nasil calistigi hakki
 Bu konuda bilgi sahibi olmak icin [bu](https://tr.wikibooks.org/wiki/Linux_%C4%B0%C5%9Fletim_Sistemi/Linux_Komutlar%C4%B1/Dosya_ve_klas%C3%B6r_komutlar%C4%B1#cd) 
 dokumani okuyabilirsiniz.
 
+Ayrica `cd` komutu, `.`, `..`, `/` dizinleri hakkinda bilgi veren asagidaki ChatGPT ciktisini okuyunuz.
+
+![unix_cd](images/unix_cd.png)
+
 Bu odevde komut satirindan bir takim dizin isimlerinin bulundugu bir CSV dosyasinin yolunu alacaksiniz.
 
 Bu tur dosyalar ornek dosyalar [data/path](data/path) dizininde bulunmaktadir.
@@ -746,7 +752,7 @@ sadece `Hatali Veri` yazdirmalidir.
 
 Programiniz ayrica maksimum 1000 satirlik veri iceren CSV dosyalari icin (ornegin [data/path/unix_paths_1000.csv](data/path/unix_paths_1000.csv)) bile dogru cikti uretmelidir.
 
-
+**Verilecek yeni odevler bu sayfadan duyurulacaktir. Bu nedenle duzenli araliklarla bu sayfayi kontrol etmeniz tavsiye edilir**
 
 
 
