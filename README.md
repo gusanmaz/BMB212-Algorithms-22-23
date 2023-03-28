@@ -637,7 +637,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class CsvReader {
+public class CSVReader {
     public static String[] readCSV(String filePath) throws IOException {
         int numLines = countLines(filePath);
 
