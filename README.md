@@ -410,7 +410,12 @@ basligi olan bir CSV dosyasi ile test edilebilir. Bu durumda programin ciktisi `
 
 Bu odev ilk odevle benzesmektedir. Ilk odevde komut satiri argumani ile okunan CSV dosyasindaki tum ogrencilerin not
 ortlamasinin ekrana yazdirilmasi istenmisti. Bu odevde ise komut satiri argumani ile okunan CSV dosyasindaki Sociology
-(Sosyoloji) bolumu ogrencilerinin notlarinin ortalamasinin ekrana yazdirilmasi istenmektedir. Iki string degerini esitligini `==` operatoru ile test edebilirsiniz.
+(Sosyoloji) bolumu ogrencilerinin notlarinin ortalamasinin ekrana yazdirilmasi istenmektedir. **Iki string turde 
+degiskenin iceriklerinin esitligini `equals` metodu ile test edebilirsiniz.**
+
+`equals` metodunun kullanimi asagida aciklanmaktadir.
+
+![images/string_equals.png](images/string_equals.png)
 
 * Yazmis oldugunuz kodu terminal programinda asagidaki gibi derleyebilirsiniz.
 
@@ -530,9 +535,9 @@ dizinde oldugu varsayilmistir. CSV dosyanizin ismine ve konuma gore komut satiri
 Bu odev 4. odevle benzesmektedir. 4. odevde komut satiri argumani ile okunan CSV dosyasindaki not ortalamasi
 `3.02` olan ogrencilerin sayisinin ekrana yazdirilmasi istenmisti. Bu odevde de komut satiri argumani ile okunan CSV dosyasindaki not ortalamasi
 `3.02` olan ogrencilerin sayisinin ekrana yazdirilmasi istenmektedir. Ne var ki bu odev icin yazacaginiz programin
-komut saturi argumani olarak ogrenci verilerinin not ortalamasina gore artan ya da azalan sirada tutuldugu bir dosya alacagi
+komut satiri argumani olarak ogrenci verilerinin not ortalamasina gore artan ya da azalan sirada tutuldugu bir dosya alacagi
 varsayilmaktadir. Ornegin [data/students/ordered/student_10_asc_gpa.csv](data/students/ordered/student_10_asc_gpa.csv) 
-ve [data/students/ordered/student_10_des_gpa.csv](data/students/ordered/student_10_des_gpa.csv)dosyalari bu programin 
+ve [data/students/ordered/student_10_des_gpa.csv](data/students/ordered/student_10_des_gpa.csv) dosyalari bu programin 
 komut satiri argumani olarak alabilecegi dosyalar arasindadir. `student_10_asc_gpa.csv` dosyasinin icerigi asagidaki gibidir.
 
 ```csv
@@ -752,7 +757,52 @@ sadece `Hatali Veri` yazdirmalidir.
 
 Programiniz ayrica maksimum 1000 satirlik veri iceren CSV dosyalari icin (ornegin [data/path/unix_paths_1000.csv](data/path/unix_paths_1000.csv)) bile dogru cikti uretmelidir.
 
+
+#### 7. Odev (Hazirlik Asamasinda - Aciklamalari su an icin dikkate almayiniz)
+
+##### On Bilgi
+
+* [Genel Odev ve Proje Kurallari](#genel-odev-ve-proje-kurallari) basligi altinda yazanlari mutlaka okuyunuz.
+* Github Classroom davet linkini kullanarak odev icin bir repo olusturunuz. Davet linki: https://classroom.github.com/a/1QKopPSK
+* Odev icin olusturdugunuz repo'yu bilgisayariniza klonlayiniz.
+* Repo icindeki `Main.java` dosyasinda gerekli degisiklikleri yaptiktan ve ayni dizine `Stack.java` ile `CSVReader.java`
+  dosyalarini ekleyip bu dosyalara gerekli kodlari yazdiktan sonra degisiklikleri commit ediniz.
+* Commit edilen degisiklikleri Github'a push ediniz.
+* Son gonderim tarihi: **9 Nisan 2023 - 23:59**
+
+##### Proje Aciklamasi
+
+Bu odevde ilk 5 odevde oldugu gibi komut satirindan ogrenci bilgilerini iceren bir CSV dosyasinin yolunu arguman olarak
+okuyacaksiniz. Daha sonra bu dosyadaki ogrenci bilgilerini ilk satirdan baslayarak satir satir okuyacaksaniz. Dosyadan
+okuma islemine baslamadan bos bir ikili arama agaci olusturacaksiniz. Dosyadan her bir satir okudugunuzda ilgili satir icin
+bir Student objesi olusturup, bu objeyi ikili arama agacina ID degerine gore yerlestireceksiniz. Bir diger deyisle 
+ikili arama agacinizin anahtar degeri ID degeri olacaktir. 
+
+Dosyadaki tum satirlari okuyup, ilgili Student objesini ikili arama agaciniza ekledikten sonra ikili arama agaciniz
+uzerinde post-order olarak gezinerek elde ettiginiz Student objelerinin bilgilerini ekrana yazdiracaksiniz. 
+
+Komut satiri argumani olarak kullanilabilecek  `student_10_asc_gpa.csv` dosyasinin icerigi asagidaki gibidir.
+
+```csv
+Name,Surname,Student ID,GPA,Department,Enrollment Year,Date of Birth
+Andrea,Butler,2839509106,1.14,Maritime Studies,2020,2002-07-08
+Shannon,Jenkins,1642023385,1.49,Sociology,2022,1971-04-02
+Kevin,Wilson,1781999930,1.54,Agricultural Engineering,2021,1950-07-19
+Billy,Wilson,2909925251,1.58,Business Administration,2017,1986-11-12
+Michelle,Watson,1429775391,1.86,Environmental Engineering,2018,1991-02-15
+Anthony,Rivera,1594661207,2.04,Civil Engineering,2020,1985-04-19
+Renee,Steele,1269513666,2.19,Biology,2016,1981-04-22
+Mary,Conley,2165795376,2.86,Industrial Engineering,2019,2000-11-07
+Kristin,Sanchez,1277240397,3.02,Sociology,2021,1984-02-13
+Diane,Parker,2058537074,3.16,Psychology,2014,1951-12-04
+```
+
+
+
+
+
 **Verilecek yeni odevler bu sayfadan duyurulacaktir. Bu nedenle duzenli araliklarla bu sayfayi kontrol etmeniz tavsiye edilir**
+
 
 
 
