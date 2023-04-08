@@ -49,6 +49,7 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 
 * [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial/)
 * Windows? [Cygwin](https://www.cygwin.com/)
+* [Türkçe Linux kullanım rehberi](https://linux-dersleri.github.io/)
 
 ### Debugging - Hata Ayiklama
 
