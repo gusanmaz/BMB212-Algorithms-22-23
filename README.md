@@ -102,7 +102,7 @@ Calistirilan programin ciktisi:
 
 **Verilen butun odev ve projelerde uyulmasi gereken kurallar**
 * Kodlarinizi aksi belirtilmedikce Java dilinde yaziniz.
-* Aksi belirtilmedikce kendinizin yazdigi kodlarda Java kutuphanelerinin siniflarini kullanmayiniz. Ornegin ArrayList, List, Math vb.
+* Aksi belirtilmedikce yazdiginiz kodlarda Java kutuphanelerinin siniflarini kullanmayiniz. Ornegin ArrayList, List, Math vb.
 * Aksi belirtilmedikce reponuzda .Java ve .txt uzantili dosyalar haricinde uzantisi olan bir dosya bulunmamalidir.
 * Her odev/proje icin Github Classroom davet linki ile olusturulan repo'ya kodlarinizi yuklemeniz (commit - push) gerekmektedir.
 * Olusturulan repodaki kok dizine (en ust dizine) `{ogrenci_no}.txt` isimli bos bir dosya eklemeniz gerekmektedir.
