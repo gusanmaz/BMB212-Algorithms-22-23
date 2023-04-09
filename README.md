@@ -19,9 +19,13 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * [Algorithms, 4th Edition by Robert Sedgewick and Kevin Wayne](https://algs4.cs.princeton.edu/home/)
 * [Algoritmalar, Robert Sedgewick, NOBEL AKADEMİK YAYINCILIK](https://www.kitapyurdu.com/kitap/algoritmalar/498451.html)
 * [Introduction to Algorithms, Fourth Edition](https://www.amazon.com/Introduction-Algorithms-fourth-Thomas-Cormen/dp/026204630X)
+* [Algoritma ve Programlamaya Giriş Türkçe Kaynak](https://ia601703.us.archive.org/8/items/algoritma-ve-programlamaya-giris-ders-notlari/Algoritma%20ve%20Programlamaya%20Giri%C5%9F%20Ders%20Notlar%C4%B1.pdf)
+* [Algoritma ve Programa Türkçe Kaynak](https://ia801700.us.archive.org/8/items/algoritmalar-ve-programlama/Algoritmalar%20ve%20Programlama.pdf)
+* [Algoritma ve Programlama - Tamamı Çözümlü Türkçe Soru Bankası](https://ia601705.us.archive.org/23/items/algoritma-ve-programlama-soru-bankasi/algoritma-ve-programlama-soru-bankas%C4%B1.pdf)
 * [Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw)
 * [2021-2022 Bahar Donemi BMB212 Ders Sayfasi](https://github.com/gusanmaz/BMB212_Algorithms)
 * [Python Tutor](https://pythontutor.com/)
+* [Python - Türkçe Kaynak](https://python-istihza.yazbel.com/)
 
 
 **Algorithm Visualisation - Algoritma Gorsellestirme**
@@ -44,11 +48,14 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * [Introduction to Git with Scott Chacon of GitHub](https://youtu.be/ZDR433b0HJY)
 * [Git 101 | Git, GitHub nedir?](https://youtu.be/nyIdgGD74c4)
 * [Git, GitHub ve GitLab Kullanımı Playlist](https://www.youtube.com/playlist?list=PLPrHLaayVkhnNstGIzQcxxnj6VYvsHBHy)
+* [Linus Torvalds ile Git hakkında röportaj ](https://www.tag1consulting.com/blog/interview-linus-torvalds-linux-and-git)
+
 
 ### Terminal Kullanimi
 
 * [Linux Tutorial for Beginners - Learn Linux and the Bash Command Line](https://ryanstutorials.net/linuxtutorial/)
 * Windows? [Cygwin](https://www.cygwin.com/)
+* [Türkçe Linux kullanım rehberi](https://linux-dersleri.github.io/)
 
 ### Debugging - Hata Ayiklama
 
@@ -59,6 +66,8 @@ Email: gusanmaz <att< nku nokta edu nokta tr
 * Step out
 * Variable values
 * [IntelliJ IDEA Debugging](https://www.jetbrains.com/help/idea/debugging-code.html)
+* [Visual Studio Code - Java Debugging](https://code.visualstudio.com/docs/java/java-debugging)
+* [Eclipse IDE - Java Debugging](https://www.eclipse.org/community/eclipse_newsletter/2017/june/article1.php)
 
 ### Command Line Arguments
 
