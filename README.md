@@ -763,12 +763,12 @@ Programiniz ayrica maksimum 1000 satirlik veri iceren CSV dosyalari icin (ornegi
 ##### On Bilgi
 
 * [Genel Odev ve Proje Kurallari](#genel-odev-ve-proje-kurallari) basligi altinda yazanlari mutlaka okuyunuz.
-* Github Classroom davet linkini kullanarak odev icin bir repo olusturunuz. Davet linki: https://classroom.github.com/a/1QKopPSK
+* Github Classroom davet linkini kullanarak odev icin bir repo olusturunuz. Davet linki: ~~`https://classroom.github.com/a/1QKopPSK~~
 * Odev icin olusturdugunuz repo'yu bilgisayariniza klonlayiniz.
 * Repo icindeki `Main.java` dosyasinda gerekli degisiklikleri yaptiktan ve ayni dizine `Stack.java` ile `CSVReader.java`
   dosyalarini ekleyip bu dosyalara gerekli kodlari yazdiktan sonra degisiklikleri commit ediniz.
 * Commit edilen degisiklikleri Github'a push ediniz.
-* Son gonderim tarihi: **9 Nisan 2023 - 23:59**
+* Son gonderim tarihi: **~~9 Nisan 2023 - 23:59~~**
 
 ##### Proje Aciklamasi
 
